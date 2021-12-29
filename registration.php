@@ -6,4 +6,4 @@
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Lailson_Biz', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Lailson_Biz', __DIR__ . '/src');
