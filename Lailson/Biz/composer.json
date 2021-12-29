@@ -17,7 +17,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Lailson\\Biz\\": "src/"
+            "Lailson\\Biz\\": ""
         }
     },
     "version": "0.0.1"
