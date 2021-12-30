@@ -1,6 +1,6 @@
 # Lailson-Biz
 
-O `Lailson Biz` foi criado para adicionar novas funcionalidades a qualquer coisa relacionada a emails dos  clientes no Magento.
+O `Lailson Biz` foi criado para adicionar novas funcionalidades a qualquer coisa relacionada a cadastro de modulos no admin e emails dos  clientes no Magento.
 
 
 # Instalação
