@@ -39,11 +39,6 @@ As configuações do módulo ficam localizadas dentro do menu `Lojas > Configura
 
 - Para Observar onde sera salvo os emails cadastrado pelo front localizadas dentro do menu `Marketing > Newsletter Subscribes `.
 
-
-
-![Configuraçao_Modulo_Admin](docs/newsletter.png)
-
 - E Mostrado todos os Emails cadastrado no front da loja, assim sendo possivel observar que esta funcionando corretamente.
-
 
 - O proposito Do Modulo Foi desenvolver atualizações de dados tanto do lado do admin da loja, quando pelo front, assim sendo salvo de ambos os lados.  
