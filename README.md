@@ -2,6 +2,11 @@
 
 O `Lailson Biz` foi criado para adicionar novas funcionalidades a qualquer coisa relacionada a emails dos  clientes no Magento.
 
+
+# Instalação
+
+O `Lailson Biz` Coloque dentro do diretorio `app > code` dentro dela crie o diretorio  `Lailson \ Biz` , o Modulo ganhara futuramente a instalação por Composer.
+
 ## Funcionalidades
 
 * [x] Salvar os dados pelo admin do modulo, atualizando no Front-end.
