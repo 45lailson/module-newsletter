@@ -7,6 +7,15 @@ O `Lailson Biz` foi criado para adicionar novas funcionalidades a qualquer coisa
 
 O `Lailson Biz` Coloque dentro do diretorio `app > code` dentro dela crie o diretorio  `Lailson \ Biz` , o Modulo ganhara futuramente a instalação por Composer.
 
+# Habilitando Instalação
+
+Para Finalizar a Instalação execute abaixo dentro da pasta raiz do seu Magento.
+
+`php bin/magento setup:upgrade`
+
+`php bin/magento setup:static-content:deploy -f`
+
+
 ## Funcionalidades
 
 * [x] Salvar os dados pelo admin do modulo, atualizando no Front-end.
