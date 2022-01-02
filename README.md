@@ -5,7 +5,7 @@ O `Lailson Biz` foi criado para adicionar novas funcionalidades a qualquer coisa
 
 # Instalação
 
-O `Lailson Biz` Coloque dentro do diretorio `app > code` dentro dela crie o diretorio  `Lailson \ Biz` , o Modulo ganhara futuramente a instalação por Composer.
+O `Lailson Biz` Coloque dentro do diretorio `app > code` dentro dela crie o diretorio  `Lailson \ Biz` , ou apenas extraia na raiz `app > code` , o Modulo ganhara futuramente a instalação por Composer.
 
 # Habilitando Instalação
 
