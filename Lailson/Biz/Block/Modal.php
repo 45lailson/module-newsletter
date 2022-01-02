@@ -14,15 +14,5 @@ class Modal extends Template
     {
         parent::__construct($context, $data);
     }
-
-//    public function getRegisterUrl()
-//    {
-//        return $this->getUrl('newsletter/modal/index', ['referer' => base64_encode($this->getCurrentUrl())]);
-//    }
-//
-//    protected function getCurrentUrl()
-//    {
-//        return $this->getUrl('//', ['_current' => true, '_use_rewrite' => true]);
-//    }
 }
 
