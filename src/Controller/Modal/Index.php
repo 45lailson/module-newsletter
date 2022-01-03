@@ -29,11 +29,14 @@ class Index extends Action
      * @return \Magento\Framework\Controller\ResultInterface|ResponseInterface
      * @throws \Magento\Framework\Exception\NotFoundException
      */
-    public function execute()
+     public function execute()
     {
         $email = $this->_request->getPostValue('email');
         if ($email) {
             $this->_modalModel->addEmail($email);
+            $this->messageManager->addSuccessMessage(__('Email Cadastrado Com Sucesso!!'));
+        } else {
+            $this->messageManager->addWarning(__('Erro ao Cadastrar o Email'));
         }
     }
 }
