@@ -52,9 +52,9 @@ Resultado final para o bloco `repositories` vai ficar assim:
             "url": "https://repo.magento.com/"
         },
         {
-			"type": "vcs",
-			"url": "https://github.com/45lailson/module-newsletter.git"
-		}
+	     "type": "vcs",
+	     "url": "https://github.com/45lailson/module-newsletter.git"
+	}
     ],
     ...
 ```
