@@ -64,7 +64,7 @@ Procure o bloco `require`, informa ao composer para instalar seu pacote. Exemplo
     ...
     
     "require": {
-        "45lailson/module-new" : "dev-master ",
+        "45lailson/module-newsletter" : "dev-master ",
         "magento/product-community-edition": "2.3.5-p1"
     },
 
