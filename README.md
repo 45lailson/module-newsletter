@@ -5,7 +5,7 @@ O `Lailson Biz` foi criado para adicionar novas funcionalidades a qualquer coisa
 
 ## Instalação via .zip
 
-Para instalar via arquivos devemos realizar o download do modulo, baixando diretamente do [repo](https://github.com:45lailson/module-newsletter.git). Iremos realizar o wget para fazer o download.
+Para instalar via arquivos devemos realizar o download do modulo, baixando diretamente do [repo](https://github.com/45lailson/module-newsletter.git). Iremos realizar o wget para fazer o download.
 
 Utilizando o 'wget' como exemplo abaixo:
 ```bash
