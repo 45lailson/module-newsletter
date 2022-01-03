@@ -36,7 +36,7 @@ class Index extends Action
             $this->_modalModel->addEmail($email);
             $this->messageManager->addSuccessMessage(__('Email Cadastrado Com Sucesso!!'));
         } else {
-            $this->messageManager->addWarning(__('Erro ao Cadastrar o Email'));
+            $this->messageManager->addErrorMessage(__('Erro ao Cadastrar o Email'));
         }
     }
 }
